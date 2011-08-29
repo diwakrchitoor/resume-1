@@ -7,7 +7,7 @@ solving problems associated with large data sets.
 
 ## Skills ##
 
-* __Languages__: Spanish, C, C#, Java, JavaScript, PHP, Python, Ruby/JRuby, SAS.
+* __Languages__: Spanish, C, C#, Java, JavaScript, PHP, Python, R, Ruby/JRuby, SAS.
 * __Frameworks__: Chef, Django, jQuery, Rails, RSpec, Sinatra, Symfony, YUI.
 * __Web Technologies__: AJAX, CSS, XHTML/HTML5.
 * __Applications__: Apache, Firebug, Git, IIS, Subversion, Varnish, VMware, Xen.
