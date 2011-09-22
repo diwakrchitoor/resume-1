@@ -12,7 +12,7 @@ solving problems associated with large data sets.
 * __Web Technologies__: AJAX, CSS, XHTML/HTML5.
 * __Applications__: Apache, Firebug, Git, IIS, Subversion, Varnish, VMware, Xen.
 * __Operating Systems__: Linux (Ubuntu, Fedora), Mac OS, Microsoft Windows, Solaris.
-* __Cloud Computing__: Amazon Web Services, Google AppEngine, Heroku, Rackspace Cloud.
+* __Cloud Computing__: Amazon Web Services, Heroku, Rackspace Cloud.
 * __Databases__: Cassandra, CouchDB, MongoDB, Microsoft SQL Server, MySQL, Redis, SQLite.
 
 ## Experience ##
