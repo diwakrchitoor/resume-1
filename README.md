@@ -1,9 +1,8 @@
 ## Profile ##
 
-I work with others to develop visually and technically sound applications,
-striving to follow industry standards and improve existing best practices.
-I've produced small research applications within tight deadlines and enjoy
-solving problems associated with large data sets.
+I enjoy working with others to develop meaningful and technically sound
+applications.  I believe in adhering to industry standards and best-practices.
+My goal is to look back every six months and realize that I've made progress.
 
 ## Skills ##
 
