@@ -1,3 +1,10 @@
+# Hector Castro #
+
+2001 Hamilton Street, APT 1622  
+Philadelphia, PA 19130  
+215-839-6736  
+<hectcastro@gmail.com>  
+
 ## Profile ##
 
 I enjoy working with others to develop meaningful and technically sound
