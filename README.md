@@ -61,9 +61,10 @@ that I've made progress.
 
 ### Teaching Assistant, Temple University; Philadelphia, PA – January 2007-May 2007 ###
 
-* Responsible for 20-25 students in each laboratory session.
-* Assisted students in maintaining computer hardware, operating systems, and web servers.
-* Walked students through Java network programming.
+* Responsible for 20-25 students in a laboratory setting.
+* Assisted students in maintaining computer hardware, operating systems,
+  and web servers.
+* Walked students through Java network programming assignments.
 
 ## Community Involvement ##
 
