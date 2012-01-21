@@ -92,8 +92,16 @@ that I've made progress.
 
 ## Education ##
 
+### The Wharton School, UPenn, San Francisco, CA – Product Design and Development, January 2011
+
+* Participated in an Innovation Tournament with a class of MBA students.
+* Brainstormed and pitched several iterations of Internet based business
+  ideas.
+* Managed the development of website prototypes on a short deadline.
+
 ### Temple University, Philadelphia, PA – B.S., Computer Science, May 2007 ###
 
 * Graduated Magna Cum Laude with a 3.66 GPA (3.70 in major).
 * Member of the Temple University Chapter of Phi Beta Kappa.
-* Served as an ambassador to incoming students for the Computer Science Department.
+* Served as an ambassador to incoming students for the Computer Science
+  Department.
