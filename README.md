@@ -6,13 +6,16 @@ My goal is to look back every six months and realize that I've made progress.
 
 ## Skills ##
 
-* __Languages__: Spanish, C, C#, Java, JavaScript, PHP, Python, R, Ruby/JRuby, SAS.
-* __Frameworks__: Chef, Django, jQuery, Rails, RSpec, Sinatra, Symfony, YUI.
-* __Web Technologies__: AJAX, CSS, XHTML/HTML5.
-* __Applications__: Apache, Firebug, Git, IIS, Subversion, Varnish, VMware, Xen.
-* __Operating Systems__: Linux (Ubuntu, Fedora), Mac OS, Microsoft Windows, Solaris.
-* __Cloud Computing__: Amazon Web Services, Heroku, Rackspace Cloud.
-* __Databases__: Cassandra, CouchDB, MongoDB, Microsoft SQL Server, MySQL, Redis, SQLite.
+* __Languages__: Spanish, C, C#, Java, JavaScript, PHP, Python, R,
+  Ruby/JRuby, SAS
+* __Frameworks__: Chef, Django, jQuery, Rails, Sinatra
+* __Web Technologies__: AJAX, CSS, WebSockets, XHTML/HTML5
+* __Applications__: Apache, Git, Nginx, Subversion, Tomcat, Varnish
+* __Operating Systems__: Linux (Amazon Linux/CentOS, Ubuntu), Mac OS,
+  Solaris
+* __Cloud Computing__: Amazon Web Services, Heroku, Rackspace Cloud
+* __Databases__: Cassandra, CouchDB, MongoDB, MySQL, Redis, Solr,
+  SQLite
 
 ## Experience ##
 
