@@ -8,8 +8,9 @@ Philadelphia, PA 19130
 ## Profile ##
 
 I enjoy working with others to develop meaningful and technically sound
-applications.  I believe in adhering to industry standards and best-practices.
-My goal is to look back every six months and realize that I've made progress.
+applications.  I believe in adhering to established industry standards
+and best-practices.  I want to look back every six months and realize
+that I've made progress.
 
 ## Skills ##
 
