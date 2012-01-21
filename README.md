@@ -46,8 +46,9 @@ that I've made progress.
 
 ### Web Developer, E-Volare; Philadelphia, PA – April 2008-August 2008 ###
 
-* Designed and developed client and server-side code.
-* Used AJAX to deliver websites that mimic the look and feel of traditional desktop applications.
+* Visually designed and developed consumer-facing websites.
+* Used AJAX to deliver websites that mimic the look and feel of
+  traditional desktop applications.
 * Created and executed effective search engine optimization strategies.
 
 ### Technical Support & Developer, XCENT; Bristol, PA – June 2007-April 2008 ###
