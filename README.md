@@ -53,9 +53,11 @@ that I've made progress.
 
 ### Technical Support & Developer, XCENT; Bristol, PA – June 2007-April 2008 ###
 
-* Provided phone and e-mail support for multiple e-commerce web applications.
-* Developed custom solutions to work alongside existing legacy applications.
-* Setup a transparent proxy server to alleviate demands on the office network. 
+* Provided phone and e-mail support for multiple e-commerce web
+  applications.
+* Developed custom features to enhance existing legacy applications.
+* Setup a transparent proxy server to alleviate demands on the office
+  network.
 
 ### Teaching Assistant, Temple University; Philadelphia, PA – January 2007-May 2007 ###
 
