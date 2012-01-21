@@ -21,9 +21,11 @@ My goal is to look back every six months and realize that I've made progress.
 
 ### Programmer/Analyst, Wharton Research Data Services; Philadelphia, PA – June 2010-Present ###
 
-* Automated data preparation and publishing processes.
-* Rewrote a significant portion of existing documentation to improve maintainability.
-* Removed bottlenecks in system architecture to increase performance.
+* Automated existing data preparation and publishing processes.
+* Rewrote a significant portion of documentation to improve
+  maintainability.
+* Re-architected a core product’s full-text search with Solr and Amazon
+  Web Services.
 
 ### Software Engineer, The Wharton School; Philadelphia, PA – August 2008-June 2010 ###
 
