@@ -70,8 +70,10 @@ that I've made progress.
 
 ### Board Member, PennApps Labs; Philadelphia, PA – May 2011 ###
 
-* Advised student initiated technology projects for the University.
-* Connected student developers with passionate staff members.
+* Advised student initiated technology projects for the University of
+  Pennsylvania.
+* Connected student developers with useful resources within the
+  university.
 
 ### Volunteer, Police Athletic League; Philadelphia, PA – February 2011 ###
 
@@ -81,12 +83,12 @@ that I've made progress.
 ### Volunteer, Supernova; Philadelphia, PA – July 2010 ###
 
 * Organized space and coordinated sessions.
-* Assisted with online session streaming via Ustream.
+* Assisted with online session streaming.
 
 ### Volunteer, HigherEdCamp; Philadelphia, PA – June 2009 ###
 
 * Assembled a mobile-friendly schedule based on Google Calendar.
-* Developed a web application to stream relevant Twitter updates.
+* Developed a web application to display relevant Twitter updates.
 
 ## Education ##
 
