@@ -37,9 +37,12 @@ that I've made progress.
 
 ### Software Engineer, The Wharton School; Philadelphia, PA – August 2008-June 2010 ###
 
-* Met faculty and PhD research demands using a wide variety of languages and platforms.
-* Delivered several technical presentations to spread awareness of emerging technologies.
-* Helped power open source software initiatives to decrease IT costs and maintain quality.
+* Met faculty and PhD research demands using a wide variety of languages
+  and platforms.
+* Delivered several technical presentations to spread awareness of
+  emerging technologies.
+* Helped drive open source software initiatives to decrease IT costs and
+  maintain quality.
 
 ### Web Developer, E-Volare; Philadelphia, PA – April 2008-August 2008 ###
 
