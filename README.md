@@ -68,6 +68,11 @@ that I've made progress.
 
 ## Community Involvement ##
 
+### Volunteer, Code for America Hackathon; Philadelphia, PA – February 2012 ###
+
+* Drew requirements from the Philadelphia External Affairs &amp; Community Engagement Office
+* Developed [theotherphiladelphia.org](http://theotherphiladelphia.org) with three other team members
+
 ### Board Member, PennApps Labs; Philadelphia, PA – May 2011 ###
 
 * Advised student initiated technology projects for the University of
