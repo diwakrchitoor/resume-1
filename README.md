@@ -68,10 +68,18 @@ that I've made progress.
 
 ## Community Involvement ##
 
+### Co-organizer, Philly DevOps; Philadelphia, PA – July 2012-Present ###
+
+* Started the first DevOps focused user group in Philadelphia.
+* Working to grow a community for individuals who believe in bridging the
+  gap between development and operations.
+
 ### Volunteer, Code for America Hackathon; Philadelphia, PA – February 2012 ###
 
-* Drew requirements from the Philadelphia External Affairs &amp; Community Engagement Office
-* Developed [theotherphiladelphia.org](http://theotherphiladelphia.org) with three other team members
+* Drew requirements from the Philadelphia External Affairs &amp;
+  Community Engagement Office.
+* Developed [theotherphiladelphia.org](http://theotherphiladelphia.org)
+  with three other team members.
 
 ### Board Member, PennApps Labs; Philadelphia, PA – May 2011 ###
 
