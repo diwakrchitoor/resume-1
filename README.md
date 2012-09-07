@@ -1,6 +1,6 @@
 # Hector Castro #
 
-2001 Hamilton Street, APT 1622  
+704 North 18th Street, APT A  
 Philadelphia, PA 19130  
 215-839-6736  
 <hectcastro@gmail.com>  
