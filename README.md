@@ -7,19 +7,21 @@ Philadelphia, PA 19130
 
 ## Skills
 
-- __Languages__: Spanish, Bash, Clojure, JavaScript, Python, Ruby/JRuby
+- __Languages__: Spanish, Bash, Clojure, Go, Python, Ruby/JRuby
 - __Frameworks__: Ansible, Chef, Django, Flask, Rails, Sinatra
 - __Operating Systems__: Linux (Amazon Linux/CentOS, Ubuntu), Mac OS
 - __Cloud Computing__: Amazon Web Services, Digital Ocean, Heroku
-- __Databases__: Cassandra, CouchDB, MySQL, Redis, Riak, Apache Solr
+- __Distributed Systems__: Apache Mesos, Apache Spark
+- __Data Stores__: Accumulo, Cassandra, HDFS, MySQL, Redis, Riak, Apache Solr
 
 ## Experience
 
 ### Operations Engineer, Azavea Inc.; Philadelphia, PA – July 2014-Present
 
-- Built a foundation of reusable Ansible modules for common software used across all teams.
-- Helped reduce overall Amazon Web Services spend by as much as 70%.
-- Added additional layers of metrics gathering to multiple SaaS stacks with StatsD and Graphite.
+- Built a foundation of reusable Ansible modules for software projects used across all teams.
+- Added additional layers of metrics collection to multiple SaaS applications with StatsD and Graphite.
+- Helped introduce blue/green deployment techniques to mitigate deployment mistakes.
+- Aided benchmarking efforts of GeoTrellis on Amazon Web Services with Apache Mesos, Apache Spark, Accumulo, and HDFS.
 
 ### Developer Advocate, Basho Technologies; Cambridge, MA – January 2013-July 2014
 
