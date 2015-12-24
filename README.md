@@ -41,11 +41,17 @@ Philadelphia, PA 19130
 - Delivered several technical presentations to spread awareness of emerging technologies.
 - Helped drive open source software initiatives to decrease IT costs and maintain quality.
 
-
-
-
-
 ## Community Involvement
+
+### Volunteer, Coded by Kids; Philadelphia, PA – October 2015-Present
+
+- Streamlined student and volunteer on-boarding processes.
+- Led students through basic web development courses and projects.
+
+### Volunteer, Emerging Technologies Conference; Philadelphia, PA – September 2014-Present
+
+- Helped recruit speakers for the infrastructure track.
+- Helped expand Opportunity Grant program for members of underrepresented groups.
 
 ### Co-organizer, Philly DevOps; Philadelphia, PA – July 2012-Present
 
