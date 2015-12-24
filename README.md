@@ -47,25 +47,9 @@ Philadelphia, PA 19130
 - Helped drive open source software initiatives to decrease IT costs and
   maintain quality.
 
-### Web Developer, E-Volare; Philadelphia, PA – April 2008-August 2008
 
-- Visually designed and developed consumer-facing websites.
-- Used AJAX to deliver websites that mimic the look and feel of traditional
-  desktop applications.
-- Created and executed effective search engine optimization strategies.
 
-### Technical Support & Developer, XCENT; Bristol, PA – June 2007-April 2008
 
-- Provided phone and e-mail support for multiple e-commerce web applications.
-- Developed custom features to enhance existing legacy applications.
-- Setup a transparent proxy server to alleviate demands on the office network.
-
-### Teaching Assistant, Temple University; Philadelphia, PA – January 2007-May 2007
-
-- Responsible for 20-25 students in a laboratory setting.
-- Assisted students in maintaining computer hardware, operating systems,
-  and web servers.
-- Walked students through Java network programming assignments.
 
 ## Community Involvement
 
@@ -74,13 +58,6 @@ Philadelphia, PA 19130
 - Started the first DevOps focused user group in Philadelphia.
 - Working to grow a community for individuals who believe in bridging the gap
   between development and operations.
-
-### Volunteer, Code for America Hackathon; Philadelphia, PA – February 2012
-
-- Drew requirements from the Philadelphia External Affairs &amp; Community
-  Engagement Office.
-- Developed [theotherphiladelphia.org](http://theotherphiladelphia.org) with
-  three other team members.
 
 ### Board Member, PennApps Labs; Philadelphia, PA – May 2011
 
@@ -92,16 +69,6 @@ Philadelphia, PA 19130
 
 - Helped administer a 24 Challenge tournament for sixth graders.
 - Mentored kids who where struggling with mathematics.
-
-### Volunteer, Supernova; Philadelphia, PA – July 2010
-
-- Organized space and coordinated sessions.
-- Assisted with online session streaming.
-
-### Volunteer, HigherEdCamp; Philadelphia, PA – June 2009
-
-- Assembled a mobile-friendly schedule based on Google Calendar.
-- Developed a web application to display relevant Twitter updates.
 
 ## Education
 
