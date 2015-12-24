@@ -8,11 +8,11 @@ Philadelphia, PA 19130
 ## Skills
 
 - __Languages__: Spanish, Bash, Clojure, Go, Python, Ruby/JRuby
-- __Frameworks__: Ansible, Chef, Django, Flask, Rails, Sinatra
-- __Operating Systems__: Linux (Amazon Linux/CentOS, Ubuntu), Mac OS
+- __Frameworks__: Ansible, Chef, Django, Packer, Rails, Terraform, Vagrant
+- __Operating Systems__: Linux (Amazon Linux, CentOS, Ubuntu), Mac OS X, SmartOS
 - __Cloud Computing__: Amazon Web Services, Digital Ocean, Heroku
 - __Distributed Systems__: Apache Mesos, Apache Spark
-- __Data Stores__: Accumulo, Cassandra, HDFS, MySQL, Redis, Riak, Apache Solr
+- __Data Stores__: Accumulo, Cassandra, HDFS, MySQL, PostgreSQL, Redis, Riak, Apache Solr
 
 ## Experience
 
