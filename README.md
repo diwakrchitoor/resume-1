@@ -27,25 +27,19 @@ Philadelphia, PA 19130
 
 - Engaged in technical pre-sales conversations with prospects.
 - Maintained Chef cookbooks for Riak and Riak CS.
-- Built tooling to support Riak for projects like Docker, Datomic, Omnibus,
-  and Vagrant.
+- Built tooling to support Riak for projects like Docker, Datomic, Omnibus, and Vagrant.
 
 ### Programmer/Analyst, Wharton Research Data Services; Philadelphia, PA – June 2010-January 2013
 
 - Automated existing data preparation and publishing processes.
-- Rewrote a significant portion of internal documentation to improve
-  maintainability.
-- Re-architected a core product’s full-text search with Solr and Amazon Web
-  Services.
+- Rewrote a significant portion of internal documentation to improve maintainability.
+- Re-architected a core product’s full-text search with Solr and Amazon Web Services.
 
 ### Software Engineer, The Wharton School; Philadelphia, PA – August 2008-June 2010
 
-- Met faculty and PhD research demands using a wide variety of languages and
-  platforms.
-- Delivered several technical presentations to spread awareness of emerging
-  technologies.
-- Helped drive open source software initiatives to decrease IT costs and
-  maintain quality.
+- Met faculty and PhD research demands using a wide variety of languages and platforms.
+- Delivered several technical presentations to spread awareness of emerging technologies.
+- Helped drive open source software initiatives to decrease IT costs and maintain quality.
 
 
 
@@ -56,14 +50,12 @@ Philadelphia, PA 19130
 ### Co-organizer, Philly DevOps; Philadelphia, PA – July 2012-Present
 
 - Started the first DevOps focused user group in Philadelphia.
-- Working to grow a community for individuals who believe in bridging the gap
-  between development and operations.
+- Working to grow a community for individuals who believe in bridging the gap between development and operations.
 
 ### Board Member, PennApps Labs; Philadelphia, PA – May 2011
 
-- Advised student initiated technology projects for the University of
-  Pennsylvania.
-- Connected student developers with useful resources within the university.
+- Advised student initiated technology projects for the University of Pennsylvania.
+- Connected student developers with technology resources within the university.
 
 ### Volunteer, Police Athletic League; Philadelphia, PA – February 2011
 
@@ -75,13 +67,11 @@ Philadelphia, PA 19130
 ### The Wharton School, UPenn, San Francisco, CA – Product Design and Development, January 2011
 
 - Participated in an Innovation Tournament with a class of MBA students.
-- Brainstormed and pitched several iterations of Internet based business
-  ideas.
-- Managed the development of website prototypes on a short deadline.
+- Brainstormed and pitched several iterations of Internet based business ideas.
+- Managed the development of website prototypes on a short timeline.
 
 ### Temple University, Philadelphia, PA – B.S., Computer Science, May 2007
 
 - Graduated Magna Cum Laude with a 3.66 GPA (3.70 in major).
 - Member of the Temple University Chapter of Phi Beta Kappa.
-- Served as an ambassador to incoming students for the Computer Science
-  Department.
+- Served as an ambassador to incoming students for the Computer Science Department.
