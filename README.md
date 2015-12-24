@@ -1,6 +1,6 @@
 # Hector Castro
 
-704 North 18th Street  
+1720 Fairmount Avenue  
 Philadelphia, PA 19130  
 215-839-6736  
 <hectcastro@gmail.com>  
