@@ -18,9 +18,9 @@ Philadelphia, PA 19130
 
 ### Operations Engineer, Azavea Inc.; Philadelphia, PA – July 2014-Present
 
-- Built a foundation of reusable Ansible modules for software projects used across all teams.
-- Added additional layers of metrics collection to multiple SaaS applications with StatsD and Graphite.
-- Helped introduce blue/green deployment techniques to mitigate deployment mistakes.
+- Built a foundation of reusable Ansible modules used across all software development teams.
+- Added additional layers of metrics collection, alerting, and log aggregation to multiple applications.
+- Helped introduce blue/green deployment techniques to mitigate deployment incidents.
 - Aided benchmarking efforts of GeoTrellis on Amazon Web Services with Apache Mesos, Apache Spark, Accumulo, and HDFS.
 
 ### Developer Advocate, Basho Technologies; Cambridge, MA – January 2013-July 2014
