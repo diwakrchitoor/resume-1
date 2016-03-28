@@ -7,10 +7,10 @@ Philadelphia, PA 19130
 
 ## Skills
 
-- __Languages__: Spanish, Bash, Clojure, Go, Python, Ruby/JRuby
+- __Languages__: Spanish, Bash, Clojure, Go, Python, Ruby
 - __Frameworks__: Ansible, Chef, Django, Packer, Rails, Terraform, Vagrant
 - __Operating Systems__: Linux (Amazon Linux, CentOS, Ubuntu), Mac OS X, SmartOS
-- __Cloud Computing__: Amazon Web Services, Digital Ocean, Heroku
+- __Cloud Computing__: Amazon Web Services (EC2, ECS, Lambda), Digital Ocean, Heroku
 - __Distributed Systems__: Apache Mesos, Apache Spark
 - __Data Stores__: Accumulo, Cassandra, HDFS, MySQL, PostgreSQL, Redis, Riak, Apache Solr
 
@@ -45,8 +45,8 @@ Philadelphia, PA 19130
 
 ### Volunteer, Coded by Kids; Philadelphia, PA – October 2015-Present
 
-- Streamlined student and volunteer on-boarding processes.
 - Led students through basic web development courses and projects.
+- Streamlined student and volunteer on-boarding processes with virtual e-mail accounts.
 
 ### Volunteer, Emerging Technologies Conference; Philadelphia, PA – September 2014-Present
 
@@ -65,8 +65,8 @@ Philadelphia, PA 19130
 
 ### Volunteer, Police Athletic League; Philadelphia, PA – February 2011
 
-- Helped administer a 24 Challenge tournament for sixth graders.
 - Mentored kids who where struggling with mathematics.
+- Helped administer a 24 Challenge tournament for sixth graders.
 
 ## Education
 
