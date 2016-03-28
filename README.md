@@ -1,9 +1,9 @@
 # Hector Castro
 
-1720 Fairmount Avenue  
-Philadelphia, PA 19130  
-215-839-6736  
-<hectcastro@gmail.com>  
+1720 Fairmount Avenue
+Philadelphia, PA 19130
+215-839-6736
+<hector@castro.io>
 
 ## Skills
 
