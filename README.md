@@ -8,11 +8,11 @@ Philadelphia, PA 19130
 #### Skills
 
 - __Languages__: Spanish, Bash, Clojure, Go, Python, Ruby
-- __Frameworks__: Ansible, Chef, Django, Packer, Rails, Terraform, Vagrant
-- __Operating Systems__: Linux (Amazon Linux, CentOS, Ubuntu), Mac OS X, SmartOS
-- __Cloud Computing__: Amazon Web Services (EC2, ECS, Lambda), Digital Ocean, Heroku
-- __Distributed Systems__: Apache Mesos, Apache Spark
-- __Data Stores__: Accumulo, Cassandra, HDFS, MySQL, PostgreSQL, Redis, Riak, Apache Solr
+- __Web Frameworks__: Django, Flask, Rails
+- __Configuration Management__: Ansible, Chef, Docker, Packer, Terraform, Vagrant
+- __Operating Systems__: FreeBSD, Linux (Amazon Linux, CentOS, Ubuntu), macOS
+- __Distributed Processing__: Amazon ECS, Amazon EMR, Amazon Lambda, Mesos, Spark, YARN
+- __Data Stores__: Accumulo, Cassandra, HDFS, MySQL, PostgreSQL, Redis, Riak, Solr
 
 #### Experience
 
@@ -21,13 +21,13 @@ Philadelphia, PA 19130
 - Built a foundation of reusable Ansible modules used across all software development teams.
 - Added additional layers of metrics collection, alerting, and log aggregation to multiple applications.
 - Helped introduce blue/green deployment techniques to mitigate deployment incidents.
-- Aided benchmarking efforts of GeoTrellis on Amazon Web Services with Apache Mesos, Apache Spark, Accumulo, and HDFS.
+- Aided benchmarking efforts of GeoTrellis on Amazon Web Services with Mesos, Spark, Accumulo, and HDFS.
 
 ##### Developer Advocate, Basho Technologies; Cambridge, MA – January 2013-July 2014
 
 - Engaged in technical pre-sales conversations with prospects.
 - Maintained Chef cookbooks for Riak and Riak CS.
-- Built tooling to support Riak for projects like Docker, Datomic, Omnibus, and Vagrant.
+- Built tooling to support Riak for Docker, Datomic, Omnibus, and Vagrant.
 
 ##### Programmer/Analyst, Wharton Research Data Services; Philadelphia, PA – June 2010-January 2013
 
@@ -43,7 +43,7 @@ Philadelphia, PA 19130
 
 #### Community Involvement
 
-##### Volunteer, Coded by Kids; Philadelphia, PA – October 2015-Present
+##### Volunteer, Coded by Kids; Philadelphia, PA – October 2015-June 2016
 
 - Led students through basic web development courses and projects.
 - Streamlined student and volunteer on-boarding processes with virtual e-mail accounts.
